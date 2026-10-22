@@ -1,0 +1,48 @@
+{
+  "objetivo": "Crear una imagen nueva con la estética pictórica de las referencias",
+  "escena": "[Describe aquí el sujeto, el lugar y la acción]",
+  "formato": {
+    "orientacion": "horizontal",
+    "relacion_de_aspecto": "16:9",
+    "uso": "fondo de pantalla",
+    "composicion": "Una sola escena que ocupa toda la imagen"
+  },
+  "estilo": {
+    "tecnica_visual": "Óleo sobre lienzo con empaste grueso",
+    "aplicacion_de_pintura": "Espátula y pinceladas cortas, densas e irregulares",
+    "textura": "Relieve pronunciado, crestas de pintura y trazos superpuestos claramente visibles",
+    "representacion": "Figurativa, con sujetos reconocibles y detalles simplificados mediante manchas de pintura",
+    "acabado": "Artesanal, táctil y ligeramente brillante en las crestas del empaste",
+    "tratamiento_de_bordes": "Alternancia de contornos definidos y bordes quebrados por la pincelada"
+  },
+  "sensacion": {
+    "ambiente": "Cinematográfico, elegante y dramático",
+    "caracter": "Pintura tradicional con encuadres de fotografía editorial",
+    "temas_afines": ["Deportes clásicos", "Paisajes costeros con villas y palmeras", "Animales de presencia imponente", "Escenas de acción"]
+  },
+  "color": {
+    "criterio": "Paleta limitada y coherente con la escena",
+    "saturacion": "Colores profundos y saturados en las versiones a color",
+    "sombras": "Oscuras, con negros intensos y matices cromáticos",
+    "luces": "Acentos luminosos concentrados",
+    "paletas_alternativas": [
+      {"nombre": "Fuego y vegetación", "colores": ["negro carbón", "verde oliva", "naranja fuego", "amarillo dorado"]},
+      {"nombre": "Hipódromo", "colores": ["verde césped", "verde oscuro", "blanco cálido", "negro", "acentos rojos y amarillos"]},
+      {"nombre": "Costa mediterránea", "colores": ["azul cobalto", "azul profundo", "verde palmera", "ocre", "terracota"]},
+      {"nombre": "Nieve monocromática", "colores": ["blanco", "gris plata", "gris pizarra", "negro"]}
+    ]
+  },
+  "iluminacion": {
+    "contraste": "Alto",
+    "tratamiento": "Sombras profundas y luces que modelan los sujetos",
+    "textura": "Pequeños brillos y sombras que hacen visible el relieve de la pintura"
+  },
+  "composicion": {
+    "encuadre": "Impactante y fácil de reconocer",
+    "profundidad": "Primer plano, plano medio y fondo diferenciados",
+    "foco_visual": "Sujeto principal claramente legible entre las pinceladas",
+    "detalle": "Mayor definición en el foco y simplificación pictórica en las zonas secundarias"
+  },
+  "evitar": ["Acabado fotográfico puro", "Render 3D de apariencia plástica", "Superficies lisas sin pinceladas", "Estética vectorial", "Caricatura o anime", "Colores pastel deslavados", "Texto, logotipos o marcas de agua", "Etiquetas, botones o elementos de página web", "Collage de varias imágenes"],
+  "prompt_base": "Representa la escena indicada como una pintura al óleo figurativa con empaste grueso y trabajo de espátula. Utiliza pinceladas densas, irregulares y superpuestas, con crestas de pintura visibles en toda la superficie. Mantén los sujetos reconocibles y concentra los detalles en el foco principal. Emplea una paleta coherente, sombras profundas y luces intensas. Busca una atmósfera elegante y cinematográfica con encuadre editorial. La imagen debe sentirse pintada a mano, con relieve material, sin parecer una fotografía con un filtro de textura. Formato horizontal 16:9, una sola escena, sin texto ni elementos de interfaz."
+}
