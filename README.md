@@ -1,5 +1,7 @@
 # Prompts de óleo con empaste
 
+**Español** · [English](https://github.com/treslou/impasto-oil-painting-prompts)
+
 Plantilla en español para pedir imágenes con aspecto de **óleo figurativo sobre lienzo, empaste grueso y trabajo de espátula**, con iluminación dramática y composición cinematográfica.
 
 ![Referencia visual de empaste grueso: Bruce Wayne ante la armadura de Batman](referencias/bruce-wayne-empaste.png)
